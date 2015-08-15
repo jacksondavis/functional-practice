@@ -1,0 +1,360 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/Problems$.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/Problems$delayedInit$body.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/Problems.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Cons$.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Cons.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Empty$.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Empty.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$2.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$append$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$filter$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$flatten$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$length$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$map$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$maximum$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$reverse$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$sum$1.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$delayedInit$body.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/List$.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/List$class.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/List.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Natural$class.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Natural.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Succ$.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Succ.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Zero$.class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Zero.class
+binary dependencies:
+4 items
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> /Users/jackson/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> /Users/jackson/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+29 items
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Problems
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Problems$
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Problems$delayedInit$body
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Cons
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Cons$
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Empty
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Empty$
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$2
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$append$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$filter$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$flatten$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$length$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$map$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$maximum$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$reverse$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$$anonfun$sum$1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Exercises$delayedInit$body
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.List
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.List$
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.List$class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Natural
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Natural$class
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Succ
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Succ$
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Zero
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods.Zero$
+used names:
+194 items
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> !=
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> &&
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> +
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> -
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> :+
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> ::
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> :::
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> <
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> <init>
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> ==
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> >
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> >=
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Any
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> App
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Boolean
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Int
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> List
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Nil
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Predef
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Problems
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Random
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Symbol
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> Tuple2
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> _1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> _2
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> ans
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> apply
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> asInstanceOf
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> beg
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> canBuildFrom
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> cnt
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> compress
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> compressRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> ctr
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> curr
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> decode
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> decodeRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> drop
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> dropRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> duplicate
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> duplicateN
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> duplicateRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> elem
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> encode
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> encodeDirect
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> encodeDirectRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> encodeModified
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> encodeRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> end
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> flatten
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> flattenRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> head
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> high
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> immutable
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> in
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> inLst
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> insertAt
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> instertAtRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> isInstanceOf
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> isPalindrome
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> last
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> length
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> listMaker
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> listTwo
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> loc
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> lotto
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> low
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> lst
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> max
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> n
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> nListBuilder
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> ne
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> nextInt
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> nth
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> num
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> pack
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> packRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> package
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> palindromeCheck
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> penultimate
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> println
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> randomPermute
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> randomRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> randomSelect
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> range
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> rangeRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> recurseCounter
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> removeAt
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> removeAtRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> rest
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> rev
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> reverse
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> reverseRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> rng
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> rotate
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> rotateRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> scala
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> slice
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> sliceRecursor
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> split
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> tail
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> tempList
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> tmp
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> tmp1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> tmp2
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> unary_-
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> unchecked
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> util
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> x
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> &&
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> +
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> ::
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> <init>
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> ==
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> >
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> A
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> AbstractFunction1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Any
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> AnyRef
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> App
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> B
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Boolean
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Cons
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Empty
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Exercises
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Function1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Function2
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Int
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> List
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Natural
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Nil
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> None
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Nothing
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Option
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Predef
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Product
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> ScalaRunTime
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Serializable
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Succ
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Tuple2
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> Zero
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> _1
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> _2
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> _hashCode
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> _root_
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> a
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> add
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> ans
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> append
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> apply
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> as
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> asInstanceOf
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> b
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> c
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> eq
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> error
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> f
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> filter
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> flatList
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> flatten
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> foldLeft
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> foldRight
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> h
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> immutable
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> in
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> is
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> isInstanceOf
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> length
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> listMethods
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> map
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> maximum
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> n
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> ne
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> package
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> println
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> r
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> reverse
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> runtime
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> scala
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> secList
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> sum
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> t
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> testFilt
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> testList
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> testMap
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> toInt
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> toScalaList
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> toString
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> typedProductIterator
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> unfold
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> x
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> y
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> z
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> ||
+product stamps:
+29 items
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/Problems$.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/Problems$delayedInit$body.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/Problems.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Cons$.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Cons.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Empty$.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Empty.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$2.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$append$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$filter$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$flatten$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$length$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$map$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$maximum$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$reverse$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$$anonfun$sum$1.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises$delayedInit$body.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Exercises.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/List$.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/List$class.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/List.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Natural$class.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Natural.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Succ$.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Succ.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Zero$.class -> lastModified(1439662297000)
+/Users/jackson/Projects/scala-functional-practice/target/scala-2.10/classes/listMethods/Zero.class -> lastModified(1439662297000)
+source stamps:
+2 items
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> hash(4d386196ecb1eb213f82bb24ef5cb7cf5079bb3a)
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> hash(ffa4d1b12593d5c2733c488163963ecb15794c1a)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/jackson/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/jackson/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Product
+internal apis:
+2 items
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDOuNnlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMLvltl0AAZub3RpZnlzcQB+AAw7HzLfdAAGZW5jb2Rlc3EAfgAMoXTRtnQAB2ZsYXR0ZW5zcQB+AAy21jrgdAAKZHVwbGljYXRlTnNxAH4ADE7F3k90AAR3YWl0c3EAfgAM1KKV3HQADSRhc0luc3RhbmNlT2ZzcQB+AAyj1a74dAAFbG90dG9zcQB+AAxv1z/fdAAJZHVwbGljYXRlc3EAfgAMLDoPWHQADGlzUGFsaW5kcm9tZXNxAH4ADG2kslR0AAZlcXVhbHNzcQB+AAzPyiW/dAAMYXNJbnN0YW5jZU9mc3EAfgAMa0nL/3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMvw8N4HQACHJlbW92ZUF0c3EAfgAMh9bD9HQADHN5bmNocm9uaXplZHNxAH4ADJqZpEx0AARwYWNrc3EAfgAMV80MeHQADSRpc0luc3RhbmNlT2ZzcQB+AAwjkB7ndAAIUHJvYmxlbXNzcQB+AAz1DSUgdAAFX2FyZ3NzcQB+AAx1+RnBdAAEbWFpbnNxAH4ADA/G0EF0AAZkZWNvZGVzcQB+AAyNusj7dAAEbGFzdHNxAH4ADNULRdx0AAhpbml0Q29kZXNxAH4ADE24plV0AAlub3RpZnlBbGxzcQB+AAxX4fDpdAAOZW5jb2RlTW9kaWZpZWRzcQB+AAwJ0j3+dAAEZHJvcHNxAH4ADHh+rst0AAxpc0luc3RhbmNlT2ZzcQB+AAwBFAfMdAAHcmV2ZXJzZXNxAH4ADIJI9Bt0AANsc3RzcQB+AAyYlLmodAAGcm90YXRlc3EAfgAMxmvDw3QADXJhbmRvbVBlcm11dGVzcQB+AAyApCJJdAACPT1zcQB+AAyfPKmYdAAFcmFuZ2VzcQB+AAzOGZ4qdAAMZW5jb2RlRGlyZWN0c3EAfgAM9Uq+nXQABXNwbGl0c3EAfgAM3LyD83QABWNsb25lc3EAfgAMjALIzHQABXNsaWNlc3EAfgAMG2EOunQACGNvbXByZXNzc3EAfgAMEMzz2HQAA250aHNxAH4ADGzHMCl0AAhpbnNlcnRBdHNxAH4ADFb5wpp0AAh0b1N0cmluZ3NxAH4ADJELl/p0AARhcmdzc3EAfgAMTiv/qnQABmxlbmd0aHNxAH4ADNAxl2V0AAIhPXNxAH4ADIzXiPZ0AAxyYW5kb21TZWxlY3RzcQB+AAwP3NeIdAAIZ2V0Q2xhc3NzcQB+AAx1CbaWdAACbmVzcQB+AAx1ArGqdAALcGVudWx0aW1hdGVzcQB+AAzWn81wdAACZXFzcQB+AAwgusiPdAALZGVsYXllZEluaXRzcQB+AAwFw8MmdAACIyNzcQB+AAxH3/cSdAAIZmluYWxpemVzcQB+AAwX8AmedAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AC91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCXeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCWAHBzcQB+AJtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Af0wACWluaGVyaXRlZHEAfgB/TAAHcGFyZW50c3EAfgB/eHEAfgCfc3EAfgCWAHBzcQB+AJt1cQB+AHoAAAAAc3EAfgCWAHBzcQB+AJt1cQB+AHoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIBxAH4AiXVxAH4AigAAAABzcQB+AIwAcQB+ADN1cQB+AI4AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AnnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJ5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AL91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCseHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCRdAAFUGxhaW5xAH4AX3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4As1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AnnNxAH4AsnQABUFycmF5cQB+ALh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AsnQABlN0cmluZ3NxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL50AARqYXZhc3EAfgC+dAAEbGFuZ3EAfgDDc3EAfgCWAHBzcQB+AJt1cQB+ANYAAAAEc3EAfgCydAADQXBwcQB+ALhzcQB+ALJ0AAtEZWxheWVkSW5pdHEAfgC4c3EAfgCydAAGT2JqZWN0cQB+ANpzcQB+ALJ0AANBbnlxAH4AuHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFPMo8yDHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvamFja3Nvbi9Qcm9qZWN0cy9zY2FsYS1mdW5jdGlvbmFsLXByYWN0aWNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRNOGGW7LHrIT+CuyTvXLfPUHm7Og==
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCYw7RNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOPgf+B0AAZub3RpZnlzcQB+AAzJSv5vdAAHZmxhdHRlbnNxAH4ADLsK88F0AARTdWNjc3EAfgAMN1MxYXQABHdhaXRzcQB+AAzxd8CwdAAJZm9sZFJpZ2h0c3EAfgAMBGHpvHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMxZ+89XQADSRhc0luc3RhbmNlT2ZzcQB+AAzXjBvcdAADbWFwc3EAfgAM+8Gz8XQADHByb2R1Y3RBcml0eXNxAH4ADFK8xy90AAZlcXVhbHNzcQB+AAzwkT8YdAAHc2VjTGlzdHNxAH4ADKz5rQd0AAF0c3EAfgAMcWhvPnQABFplcm9zcQB+AAzsD1u5dAAMYXNJbnN0YW5jZU9mc3EAfgAMmWCKinQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMergrFHQADHN5bmNocm9uaXplZHNxAH4ADDaYtgt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMHqAwtHQABnVuZm9sZHNxAH4ADJRc6j10AAhjYW5FcXVhbHNxAH4ADLmxnkJ0AAVfYXJnc3NxAH4ADEp3VJB0AARtYWluc3EAfgAMGX20OHQADXByb2R1Y3RQcmVmaXhzcQB+AAxI5V1DdAAEQ29uc3NxAH4ADPZsUbF0AAhpbml0Q29kZXNxAH4ADCBKDp90AAhmbGF0TGlzdHNxAH4ADLcRQvt0AAlub3RpZnlBbGxzcQB+AAxcFRevdAALcmVhZFJlc29sdmVzcQB+AAyizQVrdAAJRXhlcmNpc2Vzc3EAfgAMC6de1nQACHRlc3RMaXN0c3EAfgAMONWc53QAB3Rlc3RNYXBzcQB+AAweoaosdAAMaXNJbnN0YW5jZU9mc3EAfgAMPsKW73QAB3JldmVyc2VzcQB+AAyVErTsdAAGZmlsdGVyc3EAfgAMtezhXnQAB21heGltdW1zcQB+AAwS7AXSdAAHTmF0dXJhbHNxAH4ADB+RtYx0AAY8aW5pdD5zcQB+AAyYKYEvdAAHZmxhdE1hcHNxAH4ADCUhnet0AAVFbXB0eXNxAH4ADKyS8cF0AAtyZWR1Y2VSaWdodHNxAH4ADO5JlAd0AAI9PXNxAH4ADOOwufN0AAVjbG9uZXNxAH4ADCiaHeJ0AAYkaW5pdCRzcQB+AAwQCHjNdAAEY29weXNxAH4ADA48XGF0AAh0b1N0cmluZ3NxAH4ADIQqhKF0AARhcmdzc3EAfgAMWZs/u3QABmxlbmd0aHNxAH4ADEfOFlV0AAIhPXNxAH4ADGepKpp0AAFjc3EAfgAMU9BP1HQACHRlc3RGaWx0c3EAfgAM7SuyD3QAAWhzcQB+AAyk6rUddAAIZ2V0Q2xhc3NzcQB+AAyltJ9sdAAOY29weSRkZWZhdWx0JDFzcQB+AAz+eRu8dAAETGlzdHNxAH4ADMKw2uR0AAhmb2xkTGVmdHNxAH4ADMINmNJ0AAJuZXNxAH4ADLBA4El0AANhZGRzcQB+AAzxaeTidAAKcmVkdWNlTGVmdHNxAH4ADFs29uZ0AAJlcXNxAH4ADDaCX1d0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwLv5QCdAADc3Vtc3EAfgAMvunS5XQAC2RlbGF5ZWRJbml0c3EAfgAMxwRAX3QAAiMjc3EAfgAMAnrMEHQACGZpbmFsaXplc3EAfgAMQ2UWtnQADnByb2R1Y3RFbGVtZW50c3EAfgAM57Dwj3QACGhhc2hDb2Rlc3EAfgAMUVr7NHQABmFwcGVuZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAhzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAl0ABBsaXN0TWV0aG9kcy5MaXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AKBMAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgCdTAAKdXBwZXJCb3VuZHEAfgCuTAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgCmAAAAAHQAEmxpc3RNZXRob2RzLkxpc3QuQXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDCdXEAfgCrAAAAAHNxAH4As3QAA0FueXEAfgC7fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUNvdmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4Ay3QABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7v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AAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCueHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgDLdAAFUGxhaW5xAH4AZ3NxAH4BH3NxAH4As3QABUFycmF5cQB+Aih1cQB+AOgAAAABc3EAfgCzdAAGU3RyaW5nc3EAfgC5c3EAfgC8dXEAfgC/AAAAA3NxAH4AwXEAfgDwc3EAfgDBcQB+APJxAH4AxnNxAH4A0wBwc3EAfgDYdXEAfgDoAAAABHNxAH4As3QAA0FwcHEAfgIoc3EAfgCzdAALRGVsYXllZEluaXRxAH4CKHNxAH4As3EAfgDrcQB+Aj9zcQB+ALNxAH4AyXEAfgIodXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALbGlzdE1ldGhvZHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU8yjzIMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASy9Vc2Vycy9qYWNrc29uL1Byb2plY3RzL3NjYWxhLWZ1bmN0aW9uYWwtcHJhY3RpY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFP+k0bElk9XCczxIgWOWPssVeUwa
+external apis:
+0 items
+source infos:
+2 items
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/99Problems.scala -> 
+AAAAAQAAAQAAABwAGiAgICAgIGNhc2UgaGVhZCA6OiBOaWwgPT4gAQAAAj0BAAAAFwEAFyAgICAgICAgICAgICAgICAgICAgICAgAQBRL1VzZXJzL2phY2tzb24vUHJvamVjdHMvc2NhbGEtZnVuY3Rpb25hbC1wcmFjdGljZS9zcmMvbWFpbi9zY2FsYS85OVByb2JsZW1zLnNjYWxhAQBRL1VzZXJzL2phY2tzb24vUHJvamVjdHMvc2NhbGEtZnVuY3Rpb25hbC1wcmFjdGljZS9zcmMvbWFpbi9zY2FsYS85OVByb2JsZW1zLnNjYWxhABB1bnJlYWNoYWJsZSBjb2RlAQAAAAA=
+/Users/jackson/Projects/scala-functional-practice/src/main/scala/listFunctions.scala -> 
+AAAAAAAAAAIAAAEAAAAcADogICAgY2FzZSBFbXB0eSA9PiBlcnJvcigiYnp6dC4gcmVkdWNlUmlnaHQgb24gZW1wdHkgbGlzdCIpAQAAAuMBAAAAEgEAEiAgICAgICAgICAgICAgICAgIAEAVC9Vc2Vycy9qYWNrc29uL1Byb2plY3RzL3NjYWxhLWZ1bmN0aW9uYWwtcHJhY3RpY2Uvc3JjL21haW4vc2NhbGEvbGlzdEZ1bmN0aW9ucy5zY2FsYQEAVC9Vc2Vycy9qYWNrc29uL1Byb2plY3RzL3NjYWxhLWZ1bmN0aW9uYWwtcHJhY3RpY2Uvc3JjL21haW4vc2NhbGEvbGlzdEZ1bmN0aW9ucy5zY2FsYQBNbWV0aG9kIGVycm9yIGluIG9iamVjdCBQcmVkZWYgaXMgZGVwcmVjYXRlZDogVXNlIGBzeXMuZXJyb3IobWVzc2FnZSlgIGluc3RlYWQBAAABAAAAIQA5ICAgIGNhc2UgRW1wdHkgPT4gZXJyb3IoImJ6enQuIHJlZHVjZUxlZnQgb24gZW1wdHkgbGlzdCIpAQAAA44BAAAAEgEAEiAgICAgICAgICAgICAgICAgIAEAVC9Vc2Vycy9qYWNrc29uL1Byb2plY3RzL3NjYWxhLWZ1bmN0aW9uYWwtcHJhY3RpY2Uvc3JjL21haW4vc2NhbGEvbGlzdEZ1bmN0aW9ucy5zY2FsYQEAVC9Vc2Vycy9qYWNrc29uL1Byb2plY3RzL3NjYWxhLWZ1bmN0aW9uYWwtcHJhY3RpY2Uvc3JjL21haW4vc2NhbGEvbGlzdEZ1bmN0aW9ucy5zY2FsYQBNbWV0aG9kIGVycm9yIGluIG9iamVjdCBQcmVkZWYgaXMgZGVwcmVjYXRlZDogVXNlIGBzeXMuZXJyb3IobWVzc2FnZSlgIGluc3RlYWQB
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTzKPMgx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9qYWNrc29uL1Byb2plY3RzL3NjYWxhLWZ1bmN0aW9uYWwtcHJhY3RpY2UvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
